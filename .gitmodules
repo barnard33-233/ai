@@ -7,3 +7,6 @@
 [submodule "external/cli"]
 	path = external/cli
 	url = https://github.com/larksuite/cli.git
+[submodule "external/research-paper-lifecycle-skills"]
+	path = external/research-paper-lifecycle-skills
+	url = git@github.com:ShaishavMaisuria/research-paper-lifecycle-skills.git
